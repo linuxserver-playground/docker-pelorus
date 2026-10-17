@@ -33,13 +33,11 @@ RUN \
     kdenlive \
     konsole \
     kvantum \
-    kwin-x11 \
     libreoffice \
     packagekit \
     papirus-icon-theme \
     pipewire \
     plasma-desktop \
-    plasma-x11-session \
     python-gobject \
     rust \
     wireplumber \
