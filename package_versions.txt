@@ -445,7 +445,7 @@ automake                                                                        
 avahi                                                                               1:0.9rc5-2                                       alpm                              
 babl                                                                                0.1.128-1                                        alpm                              
 baloo                                                                               6.31.0-2                                         alpm                              
-baloo-widgets                                                                       26.08.2-1                                        alpm                              
+baloo-widgets                                                                       26.08.3-1                                        alpm                              
 base-devel                                                                          1-2                                              alpm                              
 bash                                                                                5.3.20-1                                         alpm                              
 beautifulsoup4                                                                      4.15.0                                           python                            
@@ -521,7 +521,7 @@ distro                                                                          
 dnspython                                                                           2.9.1                                            python                            
 docker                                                                              1:29.9.2-1                                       alpm                              
 docker-compose                                                                      5.6.1-1                                          alpm                              
-dolphin                                                                             26.08.2-1                                        alpm                              
+dolphin                                                                             26.08.3-1                                        alpm                              
 double-conversion                                                                   3.4.0-1                                          alpm                              
 drawing                                                                             1.0.2-3                                          alpm                              
 duktape                                                                             2.7.0-7                                          alpm                              
@@ -810,14 +810,14 @@ gumbo-parser                                                                    
 gzip                                                                                1.15-1                                           alpm                              
 h11                                                                                 0.16.0                                           python                            
 harfbuzz                                                                            15.0.0-1                                         alpm                              
-harfbuzz-icu                                                                        15.0.0-1                                         alpm                              
+harfbuzz-icu                                                                        15.1.0-1                                         alpm                              
 harmonydeployqt                                                                     6.12.0                                           UnknownPackage                    
 harmonyostestrunner                                                                 6.12.0                                           UnknownPackage                    
 hdf5                                                                                2.2.0-1                                          alpm                              
 hicolor-icon-theme                                                                  0.18-1                                           alpm                              
 hidapi                                                                              0.15.0-1                                         alpm                              
 highway                                                                             1.4.0-1                                          alpm                              
-hsqldb                                                                              build-26.8.1.1                                   java-archive                      
+hsqldb                                                                              build-26.8.2.2                                   java-archive                      
 httpcore                                                                            1.0.9                                            python                            
 httptools                                                                           0.9.0                                            python                            
 httpx                                                                               0.28.1                                           python                            
@@ -868,10 +868,10 @@ k8s.io/cri-streaming                                                            
 k8s.io/klog/v2                                                                      v2.140.0                                         go-module       (+1 duplicate)    
 k8s.io/streaming                                                                    v0.37.0                                          go-module                         
 k8s.io/utils                                                                        v0.0.0-20260626114624-be93311217bd               go-module       (+1 duplicate)    
-kaccounts-integration                                                               26.08.2-1                                        alpm                              
+kaccounts-integration                                                               26.08.3-1                                        alpm                              
 kactivitymanagerd                                                                   6.8.2-1                                          alpm                              
 karchive                                                                            6.31.0-1                                         alpm                              
-kate                                                                                26.08.2-1                                        alpm                              
+kate                                                                                26.08.3-1                                        alpm                              
 kauth                                                                               6.31.0-1                                         alpm                              
 kbd                                                                                 2.10.0-1                                         alpm                              
 kbookmarks                                                                          6.31.0-1                                         alpm                              
@@ -889,7 +889,7 @@ kde-cli-tools                                                                   
 kdeclarative                                                                        6.31.0-1                                         alpm                              
 kdecoration                                                                         6.8.2-1                                          alpm                              
 kded                                                                                6.31.0-1                                         alpm                              
-kdenlive                                                                            26.08.2-3                                        alpm                              
+kdenlive                                                                            26.08.3-1                                        alpm                              
 kdesu                                                                               6.31.0-1                                         alpm                              
 kdnssd                                                                              6.31.0-1                                         alpm                              
 kdsoap                                                                              2.3.0-1                                          alpm                              
@@ -906,7 +906,7 @@ ki18n                                                                           
 kiconthemes                                                                         6.31.0-1                                         alpm                              
 kidletime                                                                           6.31.0-1                                         alpm                              
 kio                                                                                 6.31.0-1                                         alpm                              
-kio-extras                                                                          26.08.2-1                                        alpm                              
+kio-extras                                                                          26.08.3-1                                        alpm                              
 kio-fuse                                                                            5.1.1-2                                          alpm                              
 kirigami                                                                            6.31.0-1                                         alpm                              
 kirigami-addons                                                                     1.16.0-1                                         alpm                              
@@ -920,7 +920,7 @@ knewstuff                                                                       
 knighttime                                                                          6.8.2-1                                          alpm                              
 knotifications                                                                      6.31.0-1                                         alpm                              
 knotifyconfig                                                                       6.31.0-1                                         alpm                              
-konsole                                                                             26.08.2-1                                        alpm                              
+konsole                                                                             26.08.3-1                                        alpm                              
 kpackage                                                                            6.31.0-1                                         alpm                              
 kparts                                                                              6.31.0-1                                         alpm                              
 kpipewire                                                                           6.8.2-1                                          alpm                              
@@ -1068,7 +1068,7 @@ libixion                                                                        
 libjpeg / libjpeg-turbo                                                             3.2.0                                            UnknownPackage                    
 libjpeg-turbo                                                                       3.2.1-1                                          alpm                              
 libjxl                                                                              0.12.0-1                                         alpm                              
-libkexiv2                                                                           26.08.2-1                                        alpm                              
+libkexiv2                                                                           26.08.3-1                                        alpm                              
 libksba                                                                             1.8.1-1                                          alpm                              
 libkscreen                                                                          6.8.2-1                                          alpm                              
 libksysguard                                                                        6.8.2-1                                          alpm                              
@@ -1133,7 +1133,7 @@ libraqm                                                                         
 libraw                                                                              0.22.3-1                                         alpm                              
 libraw1394                                                                          2.1.2-4                                          alpm                              
 libreoffice                                                                         UNKNOWN                                          java-archive                      
-libreoffice-fresh                                                                   26.8.1-2                                         alpm                              
+libreoffice-fresh                                                                   26.8.2-1                                         alpm                              
 librevenge                                                                          0.0.6-1                                          alpm                              
 librsvg                                                                             2:2.63.4-1                                       alpm                              
 libsamplerate                                                                       0.2.2-3                                          alpm                              
@@ -1612,7 +1612,7 @@ shaderc                                                                         
 shadow                                                                              4.20.0.arch1-1                                   alpm                              
 shared-mime-info                                                                    2.5.1-2                                          alpm                              
 sharedimageplugin                                                                   6.12.0                                           UnknownPackage                    
-signon-kwallet-extension                                                            26.08.2-1                                        alpm                              
+signon-kwallet-extension                                                            26.08.3-1                                        alpm                              
 signon-plugin-oauth2                                                                0.25-4                                           alpm                              
 signon-ui                                                                           0.17+20231016-4                                  alpm                              
 signond                                                                             8.61-4                                           alpm                              
